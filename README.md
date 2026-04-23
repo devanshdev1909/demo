@@ -1,2 +1,2 @@
 # demo
-just making a demo repository
+just making a demo repository.
